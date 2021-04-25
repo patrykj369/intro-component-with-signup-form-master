@@ -4,9 +4,9 @@
 
 ## Welcome! 👋
 
-### Desktop design in my implementation: (./design/Desktop.png)
+### Desktop design in my implementation: !(./design/Desktop.png)
 
 
-#### Mobile design in my implementation: (./design/mobile.png)
+#### Mobile design in my implementation: !(./design/mobile.png)
 
 #### My stack: ✔ HTML ✔ CSS ✔ JS
